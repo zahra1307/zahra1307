@@ -16,6 +16,13 @@ Ini skill yang saya punya:
 
 - *Web Developer*
 - *Design*
+
+## 🏫 Education
+
+- TK Mutiara Hati Ponorogo
+- SD Muhammadiyah terpadu Ponorogo
+- SMP Azmania Boarding School Ponorogo
+- SMK Telkom Malang
   
 
 
